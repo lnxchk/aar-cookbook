@@ -1,4 +1,4 @@
 # aar
 
 This cookbook configures the Awesome Appliance Repair application
-- added syntax checking!
+- moved syntax checking to delivery verify lint
