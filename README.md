@@ -1,4 +1,3 @@
 # aar
 
-TODO: Enter the cookbook description here.
-
+This cookbook configures the Awesome Appliance Repair application
